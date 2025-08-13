@@ -1,6 +1,6 @@
 # MLP_Final_Project
 
-# Upload these files to google collab to run:
+Upload these files to run .ipynb files:
   letter-recognition.csv
   shuttle.csv
   CC_default.csv
