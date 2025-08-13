@@ -1,5 +1,8 @@
 # MLP_Final_Project
 
+Original:
+https://github.com/PadraigC/kNNTutorial
+
 Upload these files to run .ipynb files:
 
   letter-recognition.csv
