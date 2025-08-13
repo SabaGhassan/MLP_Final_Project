@@ -1,6 +1,6 @@
 # MLP_Final_Project
 
-# Upload these files from the original to google collab to run:
+# Upload these files to google collab to run:
   letter-recognition.csv
   shuttle.csv
   CC_default.csv
